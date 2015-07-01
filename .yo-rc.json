@@ -1,0 +1,8 @@
+{
+  "generator": {
+    "structure": "nested"
+  },
+  "generator-generator": {
+    "structure": "nested"
+  }
+}
